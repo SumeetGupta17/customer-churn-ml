@@ -1,4 +1,4 @@
-learning_rate = 0.005
+learning_rate = 0.007
 epochs = 10
 
 def train():
